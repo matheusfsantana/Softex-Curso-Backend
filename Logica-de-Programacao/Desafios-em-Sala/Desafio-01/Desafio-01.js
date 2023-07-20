@@ -14,7 +14,7 @@ var fazSol = true;
 
 comida = ["arroz", "feijão", "ovo"];
 
-console.log(comida[1]);
+console.log("comida[1] = ", comida[1]);
 
 console.log("Soma === minhaVar? : ", soma === minhaVar);
 
