@@ -6,4 +6,4 @@ Utilizando o Google Blockly construa o algoritmos que realiza esse processamento
 
 ## Resolução
 
-![resolucao](./img/modulo-02-desafio-01.jpg)
+![resolucao](./img/atividade-01.jpg)
