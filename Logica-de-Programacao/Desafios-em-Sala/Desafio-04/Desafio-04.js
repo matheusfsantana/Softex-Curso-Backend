@@ -136,22 +136,22 @@ switch(animal)
 
 let numero1 = rl.questionInt("Digite um número: ");
 let numero2 = rl.questionInt("Digite outro número: ");
-let operador = rl.question("Digite o simbolo da operação (+ , - , * , /): ");
+let operador = rl.question("Digite a operação (soma , subtraçao , multiplicaçao , divisao): ");
 
 switch(operador){
-    case operador = "+":
+    case operador = "soma":
         console.log(numero1+numero2);
         break;
     
-    case operador = "-":
+    case operador = "subtraçao":
         console.log(numero1-numero2);
         break;
 
-    case operador = "*":
+    case operador = "multiplicaçao":
         console.log(numero1*numero2);
         break;
 
-    case operador = "/":
+    case operador = "divisao":
         console.log(numero1/numero2);
         break;
 
