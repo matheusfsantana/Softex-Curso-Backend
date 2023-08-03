@@ -121,3 +121,11 @@ while(contador3 > 1){
     contador3--;
 }
 console.log("Fatorial de " + numeroFatorial + " = " + fatorial);
+
+//10 
+let contagem = 10;
+console.log("\nContagem decrescente: ")
+while (contagem > 0){
+    console.log(contagem);
+    contagem--;
+}
