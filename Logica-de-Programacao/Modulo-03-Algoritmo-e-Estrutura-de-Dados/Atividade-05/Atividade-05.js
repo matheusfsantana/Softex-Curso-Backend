@@ -6,10 +6,10 @@
 
 
 //Busca linear pois os valores do array não estão ordenados.
-function buscaLinear(array, busca){
+function buscaLinear(array, buscaValor){
 
     for(let i = 0; i < array.length; i++){
-        if(array[i] === valor){
+        if(array[i] === buscaValor){
             return true;
         }
     }
