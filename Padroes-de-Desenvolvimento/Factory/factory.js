@@ -1,4 +1,3 @@
-// Interface dos computadores
 class FactoryComputer {
   constructor(ram, hdd, cpu, type) {
     this.ram = ram;
